@@ -1,12 +1,10 @@
 import tkinter
-#import tkinter.font
 from PIL import Image
 import customtkinter as ctk
 from Asterisk_Key import Asterisk_Key
 
 
 WIN_WIDTH = 500
-#WIN_HEIGHT = 500
 WIN_HEIGHT = 480
 asterisk = Asterisk_Key()
 
